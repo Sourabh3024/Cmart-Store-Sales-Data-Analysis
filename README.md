@@ -46,4 +46,3 @@ This is my first Google Looker Studio project, designed to:
 
 <img src="https://github.com/Sourabh3024/Cmart-Store-Sales-Data-Analysis/blob/2f651af8ad194ed4d11cd3d15ad8ede36d7f980a/DASHBOARD.JPG" alt="Image Description" width="600">
 
-# [DASHBOARD LINK] (https://lookerstudio.google.com/reporting/9ae18897-7c82-4fb6-b1c0-3f1c5f896e41)
